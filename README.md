@@ -54,10 +54,7 @@ int main(){
 }
 ```
 # Output:
-```
 <img width="555" height="291" alt="image" src="https://github.com/user-attachments/assets/348b53fb-7467-46a8-ac3f-24feb6a9a3bd" />
-
-```
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -158,10 +155,7 @@ int main(){
 
 ```
 # Output:
-```
 <img width="496" height="421" alt="image" src="https://github.com/user-attachments/assets/7df09694-00f4-4c1d-ba56-6524999dcbd6" />
-
-```
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -219,10 +213,7 @@ int main(){
 
 ```
 # Output:
-```
 <img width="608" height="319" alt="image" src="https://github.com/user-attachments/assets/a6c0fcd2-8f61-479a-a8c2-8eb77be55158" />
-
-```
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -285,10 +276,7 @@ int main(){
 
 ```
 # Output:
-```
 <img width="459" height="481" alt="image" src="https://github.com/user-attachments/assets/98d0979f-86c2-4220-83ea-bf50464bf4f2" />
-
-```
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -365,10 +353,7 @@ int main(){
 }
 ```
 # Output:
-```
 <img width="666" height="369" alt="image" src="https://github.com/user-attachments/assets/cabb5613-c5d8-4de1-8964-9ae043b42815" />
-
-```
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
